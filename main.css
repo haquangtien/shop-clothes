@@ -124,6 +124,10 @@
     padding-block: 16px;
 }
 
+input:focus {
+    outline: none;
+}
+
 .div-button-search {
     padding: 17px 19px 17px 0px;
 }
@@ -285,16 +289,20 @@
     display: flex;
     justify-content: end;
 }
+
 .div-btn-color {
     display: none;
 }
+
 .div-btn-color-4 {
     display: none;
 }
+
 .btn-color {
     display: flex;
-    justify-content: center; 
+    justify-content: center;
 }
+
 .color-gray {
     width: 16px;
     height: 16px;
@@ -302,6 +310,7 @@
     border-radius: 50%;
     margin-right: 10px;
 }
+
 .color-gray:hover {
     background: #EB8426;
 
@@ -437,24 +446,30 @@
     line-height: 26px;
     margin-bottom: 8px;
 }
+
 .h3-discover-1 {
     display: none;
 }
+
 .div-title-product {
     display: flex;
 }
+
 .div-btn-color-2 {
     display: none;
 }
+
 .h5-find-product {
     color: #9A9A9A;
     font-weight: 500;
     line-height: 18px;
     margin-bottom: 48px;
 }
+
 .div-btn-color-3 {
     display: none;
 }
+
 .div-all-product {
     display: flex;
     width: 1320px;
@@ -501,12 +516,14 @@
     font-weight: 500;
     line-height: 26px;
 }
+
 .div-discover-1 {
     color: #3E3E3E;
     margin: 48px 0px;
     font-weight: 500;
     line-height: 26px;
 }
+
 .h3-discover {
     color: #3E3E3E;
     font-weight: 500;
@@ -753,9 +770,11 @@
     padding: 40px 112px;
     color: #FFFFFF;
 }
+
 .image-shoes {
     height: 418px;
 }
+
 .p-content-bottom {
     line-height: 28px;
     margin-top: 8px;
@@ -956,36 +975,47 @@
     border-radius: 20px;
     color: #FFFFFF;
 }
+
 .select-shop {
     display: none;
 }
+
 .select-about {
     display: none;
 }
+
 .select-sell {
     display: none;
 }
+
 .select-help {
     display: none;
 }
+
 .input-checked-select-1 {
     display: none;
 }
+
 .input-checked-select-2 {
     display: none;
 }
+
 .input-checked-select-3 {
     display: none;
 }
+
 .input-checked-select-4 {
     display: none;
 }
+
 .footer-icon-mobile {
     color: #FFFFFF;
 }
+
 .content-p {
     width: 40%;
 }
+
 .p-cart-items {
     background-color: #EB8426;
     color: #FFFFFF;
@@ -994,17 +1024,21 @@
     font-size: 12px;
     position: absolute;
     top: 4%;
-    right: -3%; 
+    right: -3%;
 }
+
 .form-footer-mobile {
     display: none;
 }
+
 .div-btn-color-1 {
     display: none;
 }
+
 .div-button-view-all {
     display: none;
 }
+
 @keyframes fadeIn {
     from {
         opacity: 0;
