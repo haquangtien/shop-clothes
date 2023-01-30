@@ -100,9 +100,7 @@
 .div-input-search {
     padding: 16px 21px 16px 0px;
 }
-.input-search {
-   padding-block: 16px;
-}
+
 .div-opacity-full {
     background-color: rgb(0, 0, 0, 0.5);
 
@@ -123,6 +121,7 @@
     border: none;
     background-color: none;
     color: #9A9A9A;
+    padding-block: 16px;
 }
 
 .div-button-search {
